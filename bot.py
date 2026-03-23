@@ -10,8 +10,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
-TOKEN = '8367203167:AAGsmftYaiBOMSlbxoJCd6MqbjeCwR8hRD8'
-ADMIN_ID = 1992938767
+TOKEN = '-'
+ADMIN_ID = -
 
 # Клавиатура главного меню
 main_keyboard = ReplyKeyboardMarkup(
